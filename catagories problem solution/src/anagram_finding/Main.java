@@ -1,4 +1,4 @@
-package anagram_finder;
+package anagram_finding;
  
 import java.util.Arrays;
  
